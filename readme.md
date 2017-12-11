@@ -8,4 +8,4 @@ I've included the [source](OneNote2PDF_source_29-01-2008/OneNote2PDF), the [exec
 
 Although written for OneNote 2007, I am currently using it with OneNote 365 ProPlus Version 1711 and finding it to work without fault. 
 
-This is open source, under the [Microsoft Public License](license.md)). 
+This is open source, under the [Microsoft Public License](license.md). 
