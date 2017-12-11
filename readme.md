@@ -1,6 +1,6 @@
 # onenote2pdf
 
-This is a tool by huuhoa for exporting OneNote documents to PDF (with a table of contents) by script. 
+This is a tool by [huuhoa](https://www.codeplex.com/site/users/view/huuhoa) for exporting OneNote documents to PDF (with a table of contents) by script. 
 
 It was hosted on [CodePlex](https://onenote2pdf.codeplex.com/), but CodePlex is transitioning to a read-only [archive](https://codeplex.codeplex.com/wikipage?title=Moving%20CodePlex%20to%20read-only). I use this tool regularly and find it to be very useful, so I migrated the files over here. 
 
