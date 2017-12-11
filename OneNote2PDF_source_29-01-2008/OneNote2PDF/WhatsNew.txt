@@ -1,0 +1,25 @@
+11-12-2007
+    - New command: ExcludeOnly [section name]
+                   Specifies the only section that you want to export. 
+                   This command is similar to command ExportSection, however, it does not create 
+                   entire cache folder for exporting. It creates cache only for that section.
+10-12-2007
+    - New command: Exclude [section1,section2,...]
+                   Specifies list of sections (absolute path) to be excluded from exporting to PDF
+09-12-2007
+    - Add UnitTest for most of classes in the project
+08-12-2007
+    - Remove command: ExportGroup
+                   Section and sectiongroup is now merged to one entity.
+                   Use command ExportSection for export both section and sectiongroup
+07-12-2007
+	- New command: ShowTOC [true|false] default is true
+	               Specifies wherether to show Table of Contents 
+	               at the beginning of output PDF file.
+	- New command: TOCLevel [level]
+	               Specifies the maximum level at which the automatic numbering
+	               will be added to TOC entries
+    - New command: RefreshCache [true|false] default is false
+                   If set, cache folder will be deleted.
+    - Rename command TempPath to CacheFolder to better describe the meaning of the command               
+		

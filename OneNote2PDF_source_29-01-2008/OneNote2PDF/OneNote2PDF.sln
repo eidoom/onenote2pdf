@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNote2PDF", "OneNote2PDF\OneNote2PDF.csproj", "{5CA4DE66-71F8-4628-A8B7-752E096E1127}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{645B7FD1-8501-4B9C-B8E1-141B1DCCA454}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		OneNote2PDF.vsmdi = OneNote2PDF.vsmdi
+		WhatsNew.txt = WhatsNew.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNote2PDF.UnitTest", "OneNote2PDF.UnitTest\OneNote2PDF.UnitTest.csproj", "{2DCBAF00-698D-4CF6-AC02-EE66C0C0FEDF}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = OneNote2PDF.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA4DE66-71F8-4628-A8B7-752E096E1127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA4DE66-71F8-4628-A8B7-752E096E1127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA4DE66-71F8-4628-A8B7-752E096E1127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA4DE66-71F8-4628-A8B7-752E096E1127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCBAF00-698D-4CF6-AC02-EE66C0C0FEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCBAF00-698D-4CF6-AC02-EE66C0C0FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCBAF00-698D-4CF6-AC02-EE66C0C0FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCBAF00-698D-4CF6-AC02-EE66C0C0FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
